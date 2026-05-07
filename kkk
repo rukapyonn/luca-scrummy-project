@@ -1,4 +1,5 @@
-#include <SchooMyUtilities.h>
+// 基礎プログラミングII 第3回 Scrummyプロジェクト
+#include <SchooMyUtilities.h> 
 SchooMyUtilities scmUtils = SchooMyUtilities();
 
 // 明るさセンサー: 左上ポート
